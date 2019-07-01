@@ -1,2 +1,0 @@
-INSERT INTO couriers ( firstname, secondname ) VALUES
-( 'Алексей', 'Вояжный' ), ( 'Петр', 'Евлампий' )
